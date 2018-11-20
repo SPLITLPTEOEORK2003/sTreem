@@ -1,2 +1,1 @@
-# sTreem
-Procfil
+worker: node bot.js
